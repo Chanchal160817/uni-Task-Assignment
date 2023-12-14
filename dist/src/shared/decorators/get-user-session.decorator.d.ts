@@ -1,0 +1,1 @@
+export declare const GetUserSession: (...dataOrPipes: (keyof import("../../modules/client/auth/startegies/jwt-payload.interface").JwtPayload | import("@nestjs/common").PipeTransform<any, any> | import("@nestjs/common").Type<import("@nestjs/common").PipeTransform<any, any>>)[]) => ParameterDecorator;
